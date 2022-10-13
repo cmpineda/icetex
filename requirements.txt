@@ -1,4 +1,4 @@
-flaks
+flask
 joblib
 sklearn
 gunicorn
